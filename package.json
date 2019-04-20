@@ -1,0 +1,27 @@
+{
+  "name": "sprintreader",
+  "version": "1.0.0",
+  "description": "![Sprint Reader](https://raw.githubusercontent.com/anthonynosek/sprint-reader-chrome/master/src/graphics/icon128.png?raw=true)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crowbrammer/sprint-reader-chrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crowbrammer/sprint-reader-chrome/issues"
+  },
+  "homepage": "https://github.com/Crowbrammer/sprint-reader-chrome#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
